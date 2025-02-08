@@ -1,0 +1,13 @@
+.citasTable{
+    border: 1px solid #DA3B00;
+}
+
+.citasHora{
+    background-color: #DA3B00;
+    color: white;
+}
+
+.citasDatos{
+    background-color: #166F61;
+    color: white;
+}
