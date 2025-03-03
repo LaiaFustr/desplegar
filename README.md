@@ -1,12 +1,11 @@
-<<<<<<< HEAD
+
 # MenuProyecto
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
-=======
+
 # OpticaZhu
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.7.
->>>>>>> 19a59af5c5e26d64e323f727be73825c1ffcab23
 
 ## Development server
 
